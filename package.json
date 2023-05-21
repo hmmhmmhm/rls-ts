@@ -1,0 +1,13 @@
+{
+  "name": "rls-ts-new",
+  "version": "0.0.1",
+  "description": "Helps you write Supabase Row Level Security (RLS) in Typescript.",
+  "scripts": {
+    "build": "ts-node ./build.ts"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.3.59",
+    "@types/node": "^20.2.1",
+    "ts-node": "^10.9.1"
+  }
+}
