@@ -1,12 +1,15 @@
 # 🧶 Supabase RLS in Typescript
 
 [![Watch the video](https://i.imgur.com/PbNDm4h.png)](https://i.imgur.com/PbNDm4h.png)
+[![Actual Image](https://i.imgur.com/zL7gDzO.png)](https://i.imgur.com/zL7gDzO.png)
 
 > 📜 Helps you write Supabase Row Level Security (RLS) in Typescript. (\* plv8)
 
 <br />
 
 ## 🚀 Usage
+
+> New website opned!!: [https://supabase-rls.up.railway.app](https://supabase-rls.up.railway.app)
 
 ### 1. Clone And Install
 
